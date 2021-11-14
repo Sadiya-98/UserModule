@@ -5,7 +5,8 @@ Steps to run the project -
 
 Setup required - 
 
-To start 
+To start ---
+
 1 From the Command Interpreter, create the data directories:
 cd C:\
 md "\data\db"
